@@ -1,0 +1,26 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: silver;
+}
+h1{
+	text-align: center
+}
+.navchido{
+ align-self: center;
+    text-align: center;
+    align-items: center;
+    alignment: center;
+
+    color: white;
+
+}
+.aa{
+    style: none;
+    background-color: steelblue;
+    padding: 1.5%;
+    border-radius: 10px;
+    text-decoration: none;
+    text-decoration-color: white;
+    color: white;
+}
